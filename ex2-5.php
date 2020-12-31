@@ -9,5 +9,5 @@
 		
 	echo "<br> 3. 문자열형 변수 선언입니다...<br>";
 		$var_char = "웹언어";
-		echo "\$var_float = $var_char <br><br>";
+		echo "\$var_floaㅇㅍㅇㅍt = $var_char <br><br>";
 ?>
