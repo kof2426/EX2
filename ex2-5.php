@@ -3,7 +3,7 @@
 		$var_int = 150;
 		echo "\$var_int = $var_int <br><br>";
 		
-	echo "<br> 2. 실수형 변수 선언입니다...<br>";
+	echo "<br> 2. 실수형 변수 선언입니다ㅎㅎ...<br>";
 		$var_float = 3.141592;
 		echo "\$var_float = $var_float <Br><br>";
 		
